@@ -1,0 +1,43 @@
+/* Self-hosted webfonts — Cinzel, Spectral, Albert Sans (SIL Open Font License 1.1) */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400 900;
+  font-display: swap;
+  src: url(./Cinzel-8vIJ7ww63mVu7gt79mT7.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: normal;
+  font-weight: 300 500;
+  font-display: swap;
+  src: url(./AlbertSans-i7dOIFdwYjGaAMFtZd_QA1ZbYFc.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./Spectral-rnCt-xNNww_2s0amA9M8onrmTA.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(./Spectral-rnCs-xNNww_2s0amA9uSsG3BafY.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./Spectral-rnCr-xNNww_2s0amA9M5kng.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./Spectral-rnCs-xNNww_2s0amA9vKsW3BafY.woff2) format('woff2');
+}
