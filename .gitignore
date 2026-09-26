@@ -1,0 +1,35 @@
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# Dependencies & build output (only if you add tooling later)
+node_modules/
+dist/
+build/
+.cache/
+.parcel-cache/
+.tmp/
+
+# Logs & env
+*.log
+npm-debug.log*
+.env
+.env.local
+
+# Local previews
+.sass-cache/
+*.zip
